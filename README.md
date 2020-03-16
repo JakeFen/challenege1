@@ -19,7 +19,7 @@ Inputing these numbers will allow the user to see a string from 1 - N. Every num
     (string of numbers and uppercase chars)
 
 #### Input
-    node index.js 10 3 4
+    node index.js 13 3 4
 
 #### Output
     1 2 3 4 5 WAT 7 SON WAT 10 11 WATSON 13
